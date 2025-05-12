@@ -17,6 +17,11 @@
         <ul>
             <li><a href="index.php">Accueil</a></li>
             <li><a href="contact.php">Contact</a></li>
+            <li><a href="#Meuble">Meuble</a></li>
+            <li><a href="#Escaliers">Escaliers</a></li>
+            <li><a href="#Placard">Placard</a></li>
+         
+
         </ul>
     </nav>
 </header>
