@@ -1,5 +1,14 @@
 <?php include 'partials/header.php'; ?>
 <main>
+    <nav class="sub-nav">
+        <ul>
+            <li><a href="#Meubles">Meubles</a></li>
+            <li><a href="#Escaliers">Escaliers</a></li>
+            <li><a href="#Placards">Placards</a></li>
+            <li><a href="#Agencements">Agencements</a></li>
+        </ul>
+    </nav>
+
     <section>
         <h2>Bienvenue sur le site de L'Atelier du Bois</h2>
         <p>
@@ -7,8 +16,8 @@
         </p>
     </section>
 
-    <section id="Meuble">
-      
+    <section id="Meubles">
+
         <h2>Fabrication de meubles sur mesure</h2>
         <p>
             Nous concevons et fabriquons des meubles uniques, pensés pour s’adapter parfaitement à votre intérieur et à vos besoins.
@@ -27,7 +36,7 @@
         <img src="/assets/img/escalier.jpg" alt="Escalier artisanal en bois">
     </section>
 
-    <section id="Placard">
+    <section id="Placards">
         <h2>Fabrication de placards et dressings</h2>
         <p>
             Optimisez votre espace avec des rangements sur mesure.
@@ -37,7 +46,7 @@
         <img src="/assets/img/placard.jpg" alt="Placard artisanal en bois">
     </section>
 
-    <section>
+    <section id="Agencements">
         <h2>Fabrication d’agencements intérieurs personnalisés</h2>
         <p>
             Nous vous accompagnons dans tous vos projets d’agencement : cuisines, bureaux, bibliothèques encastrées, tête de lit, séparations d’espace…
