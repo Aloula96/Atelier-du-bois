@@ -19,7 +19,3 @@ Ce projet a été réalisé dans le cadre d'une situation professionnelle visant
   - css/style.css
   - js/script.js
   - img/
-
-## Déploiement
-Ce site est hébergé via GitHub Pages.
-
